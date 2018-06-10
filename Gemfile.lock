@@ -1,10 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    asciidoctor (1.5.6.2)
+    asciidoctor (1.5.7.1)
     coderay (1.1.2)
     colorator (0.1)
-    ffi (1.9.23)
+    ffi (1.9.25)
     jekyll (3.1.6)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -21,7 +21,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    kramdown (1.16.2)
+    kramdown (1.17.0)
     liquid (3.0.6)
     listen (3.1.1)
       rb-fsevent (>= 0.9.3)
@@ -51,4 +51,4 @@ DEPENDENCIES
   rake-jekyll (~> 1.1.0)
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
